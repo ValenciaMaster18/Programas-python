@@ -1,0 +1,21 @@
+Centro de Calificaciones
+
+[{'Categoria': 'Cultura', 'Nombre': 'Miguel melendez', 'Edad': 14, 'Calificacion': 40}]
+[{'Categoria': 'Deporte', 'Nombre': 'Miguel melendez', 'Edad': 14, 'Calificacion': 40}]
+[{'Categoria': 'Colombia','Nombre':'Miguel melendez',  'Edad': 14, 'Calificacion': 100}]
+[{'Categoria': 'Ciencia', 'Nombre': 'Miguel melendez', 'Edad': 14, 'Calificacion': 80}]
+
+[{'Categoria': 'Ciencia', 'Nombre': 'Stiven torres', 'Edad': 13, 'Calificacion': 100}]
+[{'Categoria': 'Deporte', 'Nombre': 'Stiven torres ', 'Edad': 13,'Calificacion': 20}]
+[{'Categoria': 'Colombia', 'Nombre':'Stiven torres', 'Edad': 13, 'Calificacion': 60}]
+[{'Categoria': 'Cultura', 'Nombre': 'Stiven torres', 'Edad': 13, 'Calificacion': 20}]
+
+[{'Categoria': 'Deporte', 'Nombre': 'Madeleine torres', 'Edad': 15, 'Calificacion': 40}]
+[{'Categoria': 'Cultura', 'Nombre': 'Madeleine torres', 'Edad': 15, 'Calificacion': 60}]
+[{'Categoria': 'Ciencia', 'Nombre': 'Madeleine torres', 'Edad': 15, 'Calificacion': 100}]
+[{'Categoria': 'Colombia', 'Nombre':'Madeline torres',  'Edad': 15, 'Calificacion': 60}]
+
+[{'Categoria': 'Cultura', 'Nombre': 'Luis alberto', 'Edad': 16, 'Calificacion': 80}]
+[{'Categoria': 'Deporte', 'Nombre': 'Luis alberto ','Edad': 16, 'Calificacion': 40}]
+[{'Categoria': 'Ciencia', 'Nombre': 'Luia alberto', 'Edad': 16, 'Calificacion': 60}]
+[{'Categoria': 'Colombia','Nombre': 'Luis alberto ','Edad': 16, 'Calificacion': 40}]
